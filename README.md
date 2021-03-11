@@ -9,3 +9,7 @@ To Use this app:
 1. go to terminal/command prompt
 2. go the the directory for the project
 3. Enter command: python main.py  
+
+
+
+Check http://password-manager.karanjaura.com/   to download Windows or Mac version of app
